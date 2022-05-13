@@ -1,0 +1,33 @@
+_repo: Amores-elegias-amatorias_68015
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ovid
+    aliases:
+    - Nasón, Publio Ovidio
+    - Ovidius Naso, Publius
+    - Nason, Publio Ovidio
+    birthdate: -43
+    deathdate: 17
+    gutenberg_agent_id: '2868'
+    url: http://www.gutenberg.org/2009/agents/2868
+    wikipedia: https://en.wikipedia.org/wiki/Ovid
+description: ''
+gutenberg_issued: '2022-05-07'
+identifiers:
+  gutenberg: '68015'
+language: es
+pgterms:marc904: http://bdh.bne.es/bnesearch/detalle/bdh0000225055
+pgterms:marc905: 20200407013108ovidionasn
+pgterms:marc906: '1878'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (Biblioteca Nacional de España.)
+publication_note: Spain :LibrerÃ­as de Juan Mariana y Sanz, editor,1878.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Amores: elegías amatorias'
+url: http://www.gutenberg.org/ebooks/68015
