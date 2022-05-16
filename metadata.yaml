@@ -1,5 +1,8 @@
 _repo: Amores-elegias-amatorias_68015
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68015-h/images/cover.jpg
 creator:
   author:
     agent_name: Ovid
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2868
     wikipedia: https://en.wikipedia.org/wiki/Ovid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68015#Amores-elegias-amatorias
 gutenberg_issued: '2022-05-07'
 identifiers:
   gutenberg: '68015'
